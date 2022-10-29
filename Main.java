@@ -4,7 +4,7 @@ public class Main {
 	
 Scanner sc = new Scanner(System.in);
 
-           //function to checkPalindrome
+          //function to checkPalindrome
 
        public void checkPalindrome()  {
 
